@@ -1,2 +1,2 @@
-# Java Basics Excercises
+# Java Basic Excercises
 some basics
